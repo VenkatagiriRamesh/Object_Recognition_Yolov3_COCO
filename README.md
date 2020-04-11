@@ -12,9 +12,9 @@ Download yolov3.weights for COCO dataset from this link and add it to the direct
 
 ## Steps to run the code 
 
-cd Object_Recognition_Yolov3_COCO
+'<cd Object_Recognition_Yolov3_COCO>'
 
-python3 detect_yolov3.py
+'<python3 detect_yolov3.py>"
 
 ## Output 
 
